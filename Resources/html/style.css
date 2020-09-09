@@ -1,0 +1,110 @@
+.navbar-default .navbar-brand {
+    color: darkslategray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.navbar-header{
+    margin-left:100px !important;
+    height: 50px;
+    width:400px;
+}
+
+.navbar-header .navbar-toggle .collapsed {
+  float: right;
+}
+
+.content{
+    margin-top:100px;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 30px;
+  font-weight: 300;
+  text-align: center
+}
+
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 20px;
+  font-weight: 300;
+  text-align: center
+}
+
+h3 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 300;
+  text-align: center;
+}
+
+.box {
+  color: #fff;
+  background: darkgrey;
+}
+
+.box-left {
+  padding: 20px;
+}
+
+.box-right {
+  padding: 50px;
+  background: white
+}
+
+.box-right-viz {
+    padding: 50px;
+    background: white;
+    border: solid;
+    border-color: lightgray
+  }
+
+.box-single {
+  padding: 50px;
+  margin: 70px;
+}
+
+#summary {
+  margin: 10px;
+  font-size: 18px;
+  line-height: 1.8em;
+}
+
+#comparison {
+    margin: 10px;
+    font-size: 15px;
+    line-height: 1.8em;
+}
+
+#landing-viz {
+    padding:15px 15px 15px 15px;
+    width: 90%;
+    height: 90%;
+}
+
+#analyses {
+    margin: 10px;
+    font-size: 14px;
+    line-height: 1.8em;
+  }
+
+#city-sample {
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin: 10px 20px;
+}
+
+.figure:active{
+  border: 5px solid #cc5500;
+}
+
+.jumbotron {
+  color: #fff;
+  background: #cc5500;
+  width: 100%;
+  height: 100%;
+  padding: 25px
+}
+
